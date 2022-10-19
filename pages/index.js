@@ -51,6 +51,8 @@ export default function Home() {
           </a>
         </div>
       </main>
+      <div>sơn test</div>
+      <div>bongs ddas</div>
 
       <footer className={styles.footer}>
         <a
